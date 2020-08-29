@@ -43,7 +43,7 @@ Create the necessary methods to connect these classes.
 - .find_all_by_name(name)
   - takes an argument of a name (as a string), returns the all guests with that name
 
-#### Trip
+#### Trip (DONE)
 
 - #listing
   - returns the listing object for the trip
